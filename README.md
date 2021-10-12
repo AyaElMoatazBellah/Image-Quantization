@@ -9,3 +9,4 @@ The idea of Image quantization is to reduce the number of colors in a full resol
 
 
 ## Run Example
+![image q run](https://user-images.githubusercontent.com/45799323/137021384-d622f5de-0765-4c64-bcc3-171b1dc17097.png)
